@@ -16,15 +16,22 @@ Também desenvolvo scripts em Python, Bash e PowerShell para apoiar a automaçã
 Registro das atividades e laboratórios práticos de segurança da informação desenvolvidos durante o curso Hacker do Bem.
 
 📚 Conteúdos abordados
-⚠️ Ameaças, ataques e vulnerabilidades
-🔎 Identificação de ameaças
-🏗️ Arquitetura e desenvolvimento seguro
-🔐 Autenticação, autorização e auditoria
-🔑 Conceitos de criptografia
-💻 Segurança em hosts
-📡 Segurança em redes sem fio e dispositivos móveis
-☁️ Segurança em ambientes virtualizados e em nuvem
-🧰 Equipamentos de segurança
-🚨 Resposta a incidentes e GRC
+Ameaças, ataques e vulnerabilidades
+Identificação de ameaças
+Arquitetura e desenvolvimento seguro
+Autenticação, autorização e auditoria
+Conceitos de criptografia
+Segurança em hosts
+Segurança em redes sem fio e dispositivos móveis
+Segurança em ambientes virtualizados e em nuvem
+Equipamentos de segurança
+Resposta a incidentes e GRC
+
+Certifications
+Cisco Certified Support Technician Networking - Mujer Digital Junior Achievement - [2026]
+Cisco Certified Support Technician Cybersecurity - Mujer Digital Junior Achievement - [2025]
+
+
+
 
 🧪 Cada módulo inclui 2 laboratórios práticos para aplicação dos conceitos de segurança.
