@@ -10,28 +10,48 @@ Este portfólio reúne laboratórios práticos, ferramentas de segurança e proj
 Também desenvolvo scripts em Python, Bash e PowerShell para apoiar a automação de processos de detecção, análise e resposta a incidentes de segurança.
 
 🛡️ Treinamento Prático em Cibersegurança – Hacker do Bem (ATIVO)
+
 📅 Início: 02/02/2026
+
 📊 Status: 60 dias — Em andamento
 
 Registro das atividades e laboratórios práticos de segurança da informação desenvolvidos durante o curso Hacker do Bem.
 
 📚 Conteúdos abordados
+
 Ameaças, ataques e vulnerabilidades
+
 Identificação de ameaças
+
 Arquitetura e desenvolvimento seguro
+
 Autenticação, autorização e auditoria
+
 Conceitos de criptografia
-Segurança em hosts
-Segurança em redes sem fio e dispositivos móveis
-Segurança em ambientes virtualizados e em nuvem
+
+Segurança em hosts, redes, nuvem e dispositivos móveis
+
 Equipamentos de segurança
+
 Resposta a incidentes e GRC
 
-Certifications
-Cisco Certified Support Technician Networking - Mujer Digital Junior Achievement - [2026]
-Cisco Certified Support Technician Cybersecurity - Mujer Digital Junior Achievement - [2025]
+🚀 Projetos em destaque
 
+| Projeto | Objetivo | Status |
+| --- | --- | --- |
+| **Integridade de Dados** | Validar manipulações de ficheiros via Diff, Cmp e MD5. | ✅ Concluído |
+| **Criptografia Clássica** | Implementar Cifra de César em Python e estudar ROT13. | ✅ Concluído |
+| **Engenharia Social** | Simular Phishing para análise de captura de credenciais. | ✅ Concluído |
+| **OSINT & Recon** | Mapear infraestrutura e domínios com WHOIS e Maltego. | ✅ Concluído |
+| **Adversarial ML** | Estudar a manipulação de modelos de IA através de ruído. | ✅ Concluído |
+| **Fluxo de Trabalho** | Gestão de tarefas de segurança via terminal (Taskwarrior). | ✅ Concluído |
 
+Cada projeto inclui: cenário, análise de logs, investigação passo a passo, threat intelligence e relatório de incidente.
 
+🏆 Certificações
 
-🧪 Cada módulo inclui 2 laboratórios práticos para aplicação dos conceitos de segurança.
+Cisco Certified Support Technician Networking – Mujer Digital Junior Achievement (2026)
+
+Cisco Certified Support Technician Cybersecurity – Mujer Digital Junior Achievement (2025)
+
+💡 Dica: Esse README funciona como página inicial do GitHub, apresentando você, seus conhecimentos e os projetos que está desenvolvendo, mantendo clareza e profissionalismo.
