@@ -24,21 +24,21 @@ A integridade assegura que a informação não foi alterada. Testamos esta premi
 * **Ação:** Comparação entre `Texto.txt` e uma cópia manipulada.
 * **Resultado:** O comando identificou a alteração exata na linha 1, demonstrando como auditorias detetam intrusões.
 
-<img width="1370" height="765" alt="Image" src="./1.1.png" />
+<img width="1370" height="765" alt="Image" src="./imagens/1.1.png" />
 
 ### 1.2 Comparação Binária (`cmp`)
 
 * **Ação:** Verificação byte-a-byte de duas imagens aparentemente iguais.
 * **Resultado:** Identificada divergência no **byte 58**, provando que edições impercetíveis alteram a estrutura binária.
 
-<img width="1361" height="745" alt="Image" src="1.2.png" />
+<img width="1361" height="745" alt="Image" src="./imagens/1.2.png" />
 
 ### 1.3 Assinaturas Digitais (MD5)
 
 * **Ação:** Geração de hash para validar autenticidade.
 * **Resultado:** Qualquer alteração mínima gerou um hash totalmente diferente (Efeito Avalanche).
 
-<img width="1194" height="752" alt="Image" src="1.3.png" />
+<img width="1194" height="752" alt="Image" src="./imagens/1.3.png" />
 ---
 
 ## 🔐 2. Criptografia e Confidencialidade
@@ -86,7 +86,7 @@ Estudo do vetor de ataque de captura de credenciais.
 * **Cenário:** Criação de uma página falsa do Facebook em `localhost:5050`.
 * **Resultado:** Interceção bem-sucedida de endereços IP e credenciais (`username/password`) em texto claro nos logs do sistema.
 
-<img width="1034" height="591" alt="Image" src="2.1.png" />
+<img width="1034" height="591" alt="Image" src="./imagens/2.1.png" />
 ---
 
 ## 🔍 4. Inteligência e Reconhecimento (OSINT)
@@ -96,7 +96,7 @@ Estudo do vetor de ataque de captura de credenciais.
 * **Execução:** `whois es.rnp.br` e `whois itapaje.ce.gov.br`.
 * **Descoberta:** Identificação de servidores DNS (Cloudflare/RNP), contactos técnicos e datas de expiração de domínios institucionais.
 
-<img width="1012" height="550" alt="Image" src="2.2.png" />
+<img width="1012" height="550" alt="Image" src="./imagens/2.2.png" />
 
 
 ### 4.2 Mapeamento de Infraestrutura (Maltego)
@@ -104,7 +104,7 @@ Estudo do vetor de ataque de captura de credenciais.
 * **Ação:** Mapeamento do domínio `ufc.br`.
 * **Resultados:** Identificação de servidores de nomes, subdomínios e extração de entidades (pessoas) vinculadas via chaves PGP.
 
-<img width="985" height="594" alt="Image" src="2.3.png" />
+<img width="985" height="594" alt="Image" src="./imagens/2.3.png" />
 ---
 
 ## 🤖 5. Adversarial Machine Learning
@@ -112,7 +112,7 @@ Estudo do vetor de ataque de captura de credenciais.
 * **Conceito:** Exploração de vulnerabilidades em modelos de IA.
 * **Prática:** Utilização do `adversarial.js` para demonstrar como a inserção de ruído impercetível numa imagem força uma IA a classificar um objeto incorretamente.
 
-<img width="811" height="572" alt="Image" src="2.4.png" />
+<img width="811" height="572" alt="Image" src="./imagens/2.4.png" />
 ---
 
 ## 🛠️ Tecnologias & Ferramentas
