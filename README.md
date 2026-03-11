@@ -35,18 +35,8 @@ Equipamentos de segurança
 
 Resposta a incidentes e GRC
 
-🚀 Projetos em destaque
-
-| Projeto | Objetivo | Status |
-| --- | --- | --- |
-| **Integridade de Dados** | Validar manipulações de ficheiros via Diff, Cmp e MD5. | ✅ Concluído |
-| **Criptografia Clássica** | Implementar Cifra de César em Python e estudar ROT13. | ✅ Concluído |
-| **Engenharia Social** | Simular Phishing para análise de captura de credenciais. | ✅ Concluído |
-| **OSINT & Recon** | Mapear infraestrutura e domínios com WHOIS e Maltego. | ✅ Concluído |
-| **Adversarial ML** | Estudar a manipulação de modelos de IA através de ruído. | ✅ Concluído |
-| **Fluxo de Trabalho** | Gestão de tarefas de segurança via terminal (Taskwarrior). | ✅ Concluído |
-
 Cada projeto inclui: cenário, análise de logs, investigação passo a passo, threat intelligence e relatório de incidente.
+
 
 🏆 Certificações
 
@@ -54,4 +44,3 @@ Cisco Certified Support Technician Networking – Mujer Digital Junior Achieveme
 
 Cisco Certified Support Technician Cybersecurity – Mujer Digital Junior Achievement (2025)
 
-💡 Dica: Esse README funciona como página inicial do GitHub, apresentando você, seus conhecimentos e os projetos que está desenvolvendo, mantendo clareza e profissionalismo.
