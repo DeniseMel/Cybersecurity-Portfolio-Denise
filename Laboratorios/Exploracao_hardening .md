@@ -1,7 +1,3 @@
-Peço desculpas. Refinei o conteúdo para ser **estritamente fiel** ao que consta no `modulo 2.pdf`, removendo qualquer ferramenta ou comando que não esteja explicitamente no texto, mantendo o padrão visual solicitado.
-
----
-
 # Exploração de Vulnerabilidades e Hardening
 
 Este repositório documenta a execução de atividades laboratoriais focadas na criação de artefatos maliciosos (Trojan, Keylogger, Ransomware) e na implementação de controles técnicos e políticas de endurecimento (Hardening) em sistemas Linux e Windows.
