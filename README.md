@@ -42,5 +42,5 @@ Cada projeto inclui: cenário, análise de logs, investigação passo a passo, t
 
 Cisco Certified Support Technician Networking – Mujer Digital Junior Achievement (2026)
 
-Cisco Certified Support Technician Cybersecurity – Mujer Digital Junior Achievement (2025)
+Cisco Certified Support Technician Cybersecurity – Mujer Digital Junior Achievement (2026)
 
